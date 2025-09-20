@@ -1,0 +1,29 @@
+# Fichiers temporaires et de lock
+*.DSNlck
+*~$*
+
+# Historique et previews générés automatiquement
+__Previews/
+History/
+*/History/
+*.SchDocPreview
+*.PcbDocPreview
+
+# Fichiers de logs et outputs
+* Logs*
+Project Outputs *
+
+# Structures de projet auto-générées
+*.PrjPCBStructure
+*.PrjPcbStructure
+
+# Fichiers inutiles de backup
+*.bak
+*.tmp
+*.zip
+*.rar
+*.7z
+
+# Windows / macOS fichiers inutiles
+Thumbs.db
+.DS_Store
